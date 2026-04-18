@@ -31,3 +31,22 @@ http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 https://z88.ubtvfans.com/live/rx5/3151/8b2b585365f9d90200c61f86dd76385d/index.m3u8
 #EXTINF:-1 group-title="国际",sexgirl
 http://125.227.210.55:3031/VideoInput/play.ts
+#EXTINF:-1 group-title="PRIVADO",91短视频
+http://z88.ubtvfans.com/live/rx4/3172/d072c9162a60525dab8cf99c8201ef8c/index.m3u8
+#EXTINF:-1 group-title="PRIVADO",小宝寻花
+http://z88.ubtvfans.com/live/rx1/3181/894f03cfa9460d024eae6ec7daf3ee79/index.m3u8
+#EXTINF:-1 group-title="PRIVADO",麻豆大番
+http://z88.ubtvfans.com/live/rx1/3184/d7ec9e74daa6ffab755743705cf460eb/index.m3u8
+#EXTINF:-1 group-title="PRIVADO",91沈先生
+http://z88.ubtvfans.com/live/rx1/3185/1ef3b172906284ca3bee783aba5d0fd0/index.m3u8
+#EXTINF:-1 group-title="PRIVADO",麻豆
+http://z88.ubtvfans.com/live/rx1/3188/a18cb112b8da206c050b76593d115a99/index.m3u8
+#EXTINF:-1 group-title="PRIVADO",麻豆外番
+http://z88.ubtvfans.com/live/rx4/3189/2127a42b885dafbe1d1eba979e3dbe60/index.m3u8
+#EXTINF:-1 group-title="PRIVADO",香蕉台(125)
+http://125.227.210.55:1009/VideoInput/play.ts
+#EXTINF:-1 group-title="PRIVADO",奧視2台(125)
+http://125.227.210.55:1022/VideoInput/play.ts
+#EXTINF:-1 group-title="PRIVADO",驚豔台(125)
+http://125.227.210.55:3016/VideoInput/play.ts
+
