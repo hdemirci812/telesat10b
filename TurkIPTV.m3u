@@ -3,7 +3,7 @@
 https://midnightblue.denek1544.workers.dev/channel/U2luZW1hIFRW.m3u8
 #EXTINF:-1 group-title="Dsmart" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/P/q0/246225/logo.png",Sinema TV 2
 https://midnightblue.denek1544.workers.dev/channel/U2luZW1hIFRWIDI=.m3u8
-EXTINF:-1 group-title="Dsmart" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/x/sq/246201/logo.png",Sinema TV Aksiyon
+#EXTINF:-1 group-title="Dsmart" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/x/sq/246201/logo.png",Sinema TV Aksiyon
 https://midnightblue.denek1544.workers.dev/channel/U2luZW1hIFRWIEFrc2l5b24=.m3u8
 #EXTINF:-1 group-title="Dsmart" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/k/oS/246198/logo.png",Sinema TV Aksiyon 2
 https://midnightblue.denek1544.workers.dev/channel/U2luZW1hIFRWIEFrc2l5b24gMg==.m3u8
@@ -46,37 +46,37 @@ https://feneradamideler.testworker0y.workers.dev/channel/U3RhciBUViB8IEE=
 #EXTINF:-1 group-title="Dsmart" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/S/Js/246030/logo.png",ATV
 https://feneradamideler.testworker0y.workers.dev/channel/QXR2IHwgQg==
 #EXTINF:-1 group-title="Dsmart" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/S/tg/245943/logo.png",TRT 1
-http://87.121.104.29:8001/?id=245943&token=6ff9557c5017b6a2713334529138e01a
+https://cr.denek1544.workers.dev/izle/trt1-114.m3u8
 #EXTINF:-1 group-title="Dsmart" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/E/ON/246138/logo.png",Kanal 7
-http://87.121.104.29:8001/?id=246138&token=6ff9557c5017b6a2713334529138e01a
+https://cr.denek1544.workers.dev/izle/kanal7-106.m3u8
 #EXTINF:-1 group-title="Dsmart" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/M/NO/246132/logo.png",TV8
-http://87.121.104.29:8001/?id=246132&token=6ff9557c5017b6a2713334529138e01a
+https://feneradamideler.testworker0y.workers.dev/channel/VHY4IHwgQw==
 #EXTINF:-1 group-title="Dsmart" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/U/w2/245997/logo.png",NOW
-http://87.121.104.29:8001/?id=245997&token=6ff9557c5017b6a2713334529138e01a
+https://cr.denek1544.workers.dev/izle/foxtv.m3u8
 #EXTINF:-1 group-title="Dsmart" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/h/XP/246261/logo.png",Haber Çoklu Ekran
 http://87.121.104.29:8001/?id=246261&token=6ff9557c5017b6a2713334529138e01a
 #EXTINF:-1 group-title="Dsmart" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/U/Cg/245940/logo.png",CNN Türk
-http://87.121.104.29:8001/?id=245940&token=6ff9557c5017b6a2713334529138e01a
+https://dmxtl.testworkery0.workers.dev/izle/cnnturkhd.m3u8
 #EXTINF:-1 group-title="Dsmart" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/A/Bt/246120/logo.png",NTV
-http://87.121.104.29:8001/?id=246120&token=6ff9557c5017b6a2713334529138e01a
+https://dogus.daioncdn.net/ntv/ntv.m3u8?ce=3
 #EXTINF:-1 group-title="Dsmart" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/c/Bc/246024/logo.png",TRT Haber
-http://87.121.104.29:8001/?id=246024&token=6ff9557c5017b6a2713334529138e01a
+https://tv-trthaber.medya.trt.com.tr/master_360.m3u8
 #EXTINF:-1 group-title="Dsmart" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/7/RQ/246027/logo.png",Haber Türk
-http://87.121.104.29:8001/?id=246027&token=6ff9557c5017b6a2713334529138e01a
+https://palavraa.testworker0y.workers.dev/channel/SGFiZXJ0w7xyayB8IEI=
 #EXTINF:-1 group-title="Dsmart" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/j/bb/246126/logo.png",24
-http://87.121.104.29:8001/?id=246126&token=6ff9557c5017b6a2713334529138e01a
+https://palavraa.testworker0y.workers.dev/channel/S2FuYWwgMjQ=
 #EXTINF:-1 group-title="Dsmart" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/T/8V/246123/logo.png",A Haber
-http://87.121.104.29:8001/?id=246123&token=6ff9557c5017b6a2713334529138e01a
+https://dmxtl.testworkery0.workers.dev/izle/ahaberhd.m3u8
 #EXTINF:-1 group-title="Dsmart" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/U/Wm/246069/logo.png",TLC
-http://87.121.104.29:8001/?id=246069&token=6ff9557c5017b6a2713334529138e01a
+https://dmxtl.testworkery0.workers.dev//izle/tlc.m3u8
 #EXTINF:-1 group-title="Dsmart" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/Q/vX/246174/logo.png",TV 100
-http://87.121.104.29:8001/?id=246174&token=6ff9557c5017b6a2713334529138e01a
+https://palavraa.testworker0y.workers.dev/channel/VFYxMDAgfCBB
 #EXTINF:-1 group-title="Dsmart" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/s/nG/343791/logo.png",CNBC-E
 http://87.121.104.29:8001/?id=343791&token=6ff9557c5017b6a2713334529138e01a
 #EXTINF:-1 group-title="Dsmart" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/m/ox/246255/logo.png",Ekol TV
 http://87.121.104.29:8001/?id=246255&token=6ff9557c5017b6a2713334529138e01a
 #EXTINF:-1 group-title="Dsmart" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/z/s0/246105/logo.png",Beyaz TV
-http://87.121.104.29:8001/?id=246105&token=6ff9557c5017b6a2713334529138e01a
+https://feneradamideler.testworker0y.workers.dev/channel/VGV2ZTI=
 #EXTINF:-1 group-title="Dsmart" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/F/xU/246090/logo.png",TV Net
 http://87.121.104.29:8001/?id=246090&token=6ff9557c5017b6a2713334529138e01a
 #EXTINF:-1 group-title="Dsmart" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/J/B7/246144/logo.png",Haber Global
@@ -154,7 +154,7 @@ http://87.121.104.29:8001/?id=246177&token=6ff9557c5017b6a2713334529138e01a
 #EXTINF:-1 group-title="Dsmart" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/e/k2/246099/logo.png",Ulusal TV
 http://87.121.104.29:8001/?id=246099&token=6ff9557c5017b6a2713334529138e01a
 #EXTINF:-1 group-title="Dsmart" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/L/kO/246240/logo.png",SZC TV
-http://87.121.104.29:8001/?id=246240&token=6ff9557c5017b6a2713334529138e01a
+https://diyanetcocuk.testworkery0.workers.dev/?ch=sozcu
 #EXTINF:-1 group-title="Dsmart" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/G/N-/246165/logo.png",ShowMax
 http://87.121.104.29:8001/?id=246165&token=6ff9557c5017b6a2713334529138e01a
 #EXTINF:-1 group-title="Dsmart" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/n/sT/1029226/logo.png",Lider Haber
